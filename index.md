@@ -1,5 +1,5 @@
 ---
-layout: defualt
+layout: default
 title: Home
 ---
 
@@ -18,9 +18,7 @@ Hello! I'm **Dinesh Kodwani**, a Computer Science graduate student at WPI. I am 
 - **LinkedIn**: [linkedin.com/in/dinesh-kodwani](https://linkedin.com/in/dinesh-kodwani)
 
 
----
-layout: default
----
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
