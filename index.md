@@ -12,6 +12,8 @@ Hello! I'm **Dinesh Kodwani**, a Computer Science graduate student at WPI. I am 
 - **CNN for Digit Recognition**: Achieved 99% accuracy on MNIST using PyTorch.
 - **Music Equalizer Recommender**: Combined CNN+Random Forest and CNN+RNN models to recommend equalizer settings based on music genre and device type. 
 
+[Go To Projects](./projects)
+
 ## Contact
 - **Email**: [dkodwani@wpi.edu](mailto:dkodwani@wpi.edu)
 - **GitHub**: [github.com/DineshKod](https://github.com/DineshKod)
